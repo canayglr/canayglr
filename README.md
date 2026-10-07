@@ -54,12 +54,12 @@ looking_for: internships in robotics, autonomy or computer vision
 
 | | Project | Description | Stack |
 |---|---|---|---|
-| 🌊 | [**uuv-simulation**](https://github.com/canayglr/uuv-simulation) | Autonomous underwater vehicle controller: dive → waypoint navigation → hover → surface state machine with sonar-based obstacle avoidance | ROS · Gazebo · Python |
-| 🚗 | [**yolov11_deepsort**](https://github.com/canayglr/yolov11_deepsort) | Vehicle detection & counting with a custom-trained YOLOv11 model and DeepSORT tracking | PyTorch · OpenCV |
-| ⛵ | [**boatsimulation**](https://github.com/canayglr/boatsimulation) | Surface-vessel simulation with custom Gazebo boat models driven by ArduPilot SITL | ArduPilot · Gazebo · ROS |
-| 🔐 | [**cansecurity**](https://github.com/canayglr/cansecurity) | Full-screen startup lock screen with password protection | Python · PyQt5 |
-| 🏢 | [**MSSQL-Yurt-Takip-Sistemi**](https://github.com/canayglr/MSSQL-Yurt-Takip-Sistemi) | Dormitory management database: rooms, students, staff and payments | SQL Server |
-| 🛒 | [**sepet-siparis**](https://github.com/canayglr/sepet-siparis) | Shopping cart & admin panel app built on OOP and interfaces | C# · WinForms |
+| 🌊 | [**autonomous-uuv-ros**](https://github.com/canayglr/autonomous-uuv-ros) | Autonomous underwater vehicle controller: dive → waypoint navigation → hover → surface state machine with sonar-based obstacle avoidance | ROS · Gazebo · Python |
+| 🚗 | [**vehicle-tracking-yolov11-deepsort**](https://github.com/canayglr/vehicle-tracking-yolov11-deepsort) | Vehicle detection & counting with a custom-trained YOLOv11 model and DeepSORT tracking | PyTorch · OpenCV |
+| ⛵ | [**usv-ardupilot-gazebo-sim**](https://github.com/canayglr/usv-ardupilot-gazebo-sim) | Surface-vessel simulation with custom Gazebo boat models driven by ArduPilot SITL | ArduPilot · Gazebo · ROS |
+| 🔐 | [**pc-lock-screen-pyqt5**](https://github.com/canayglr/pc-lock-screen-pyqt5) | Startup lock screen with password and timed sessions (auto-shutdown) | Python · PyQt5 |
+| 🏢 | [**dormitory-management-mssql**](https://github.com/canayglr/dormitory-management-mssql) | Dormitory management database: rooms, students, staff and payments | SQL Server |
+| 🛒 | [**shopping-cart-winforms**](https://github.com/canayglr/shopping-cart-winforms) | Shopping cart & admin panel app built on OOP and interfaces | C# · WinForms |
 
 ---
 
@@ -83,12 +83,12 @@ Fırat Üniversitesi'nde **Bilgisayar Mühendisliği** öğrencisiyim. **Otonom 
 
 | Proje | Açıklama |
 |---|---|
-| [**uuv-simulation**](https://github.com/canayglr/uuv-simulation) | Su altı aracı için otonom kontrolcü: dalış → waypoint navigasyonu → askıda kalma → yüzeye çıkış, sonar ile engelden kaçınma |
-| [**yolov11_deepsort**](https://github.com/canayglr/yolov11_deepsort) | Özel eğitilmiş YOLOv11 modeli ve DeepSORT ile araç tespiti, takibi ve sayımı |
-| [**boatsimulation**](https://github.com/canayglr/boatsimulation) | ArduPilot SITL ile sürülen özel Gazebo tekne modelleriyle deniz aracı simülasyonu |
-| [**cansecurity**](https://github.com/canayglr/cansecurity) | Bilgisayar açılışında şifre soran masaüstü kilit ekranı (PyQt5) |
-| [**MSSQL-Yurt-Takip-Sistemi**](https://github.com/canayglr/MSSQL-Yurt-Takip-Sistemi) | Oda, öğrenci, personel ve ödeme takibi yapan yurt yönetim veritabanı |
-| [**sepet-siparis**](https://github.com/canayglr/sepet-siparis) | OOP ve arayüzlerle geliştirilmiş sepet ve yönetim paneli uygulaması (C#) |
+| [**autonomous-uuv-ros**](https://github.com/canayglr/autonomous-uuv-ros) | Su altı aracı için otonom kontrolcü: dalış → waypoint navigasyonu → askıda kalma → yüzeye çıkış, sonar ile engelden kaçınma |
+| [**vehicle-tracking-yolov11-deepsort**](https://github.com/canayglr/vehicle-tracking-yolov11-deepsort) | Özel eğitilmiş YOLOv11 modeli ve DeepSORT ile araç tespiti, takibi ve sayımı |
+| [**usv-ardupilot-gazebo-sim**](https://github.com/canayglr/usv-ardupilot-gazebo-sim) | ArduPilot SITL ile sürülen özel Gazebo tekne modelleriyle deniz aracı simülasyonu |
+| [**pc-lock-screen-pyqt5**](https://github.com/canayglr/pc-lock-screen-pyqt5) | Açılışta şifre soran, süreli oturum ve otomatik kapanma özellikli kilit ekranı (PyQt5) |
+| [**dormitory-management-mssql**](https://github.com/canayglr/dormitory-management-mssql) | Oda, öğrenci, personel ve ödeme takibi yapan yurt yönetim veritabanı |
+| [**shopping-cart-winforms**](https://github.com/canayglr/shopping-cart-winforms) | OOP ve arayüzlerle geliştirilmiş sepet ve yönetim paneli uygulaması (C#) |
 
 <div align="center">
 
