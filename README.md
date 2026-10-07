@@ -12,11 +12,11 @@
   <img src="https://img.shields.io/badge/Open%20to-Internships-22c55e?style=for-the-badge"/>
 </p>
 
-**🇬🇧 English** · [🇹🇷 Türkçe](#-türkçe)
+**<img src="https://raw.githubusercontent.com/canayglr/canayglr/main/assets/flags/gb.png" height="14" alt="EN"/> English** · [<img src="https://raw.githubusercontent.com/canayglr/canayglr/main/assets/flags/tr.png" height="14" alt="TR"/> Türkçe](#tr)
 
 </div>
 
-## 🇬🇧 About me
+## <img src="https://raw.githubusercontent.com/canayglr/canayglr/main/assets/flags/gb.png" height="14" alt="EN"/> About me
 
 ```yaml
 name:      Cevat Can Aygüler
@@ -65,11 +65,13 @@ looking_for: internships in robotics, autonomy or computer vision
 
 <div align="center">
 
-## 🇹🇷 Türkçe
+<a name="tr"></a>
+
+## <img src="https://raw.githubusercontent.com/canayglr/canayglr/main/assets/flags/tr.png" height="14" alt="TR"/> Türkçe
 
 </div>
 
-## 🇹🇷 Hakkımda
+## <img src="https://raw.githubusercontent.com/canayglr/canayglr/main/assets/flags/tr.png" height="14" alt="TR"/> Hakkımda
 
 Fırat Üniversitesi'nde **Bilgisayar Mühendisliği** öğrencisiyim. **Otonom araçlar**, **görüntü işleme** ve **robotik simülasyon** üzerine çalışıyorum.
 
